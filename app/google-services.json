@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252897910755",
+    "project_id": "hoteligo-23f7a",
+    "storage_bucket": "hoteligo-23f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252897910755:android:62ec1e77686e00f5cd0ad6",
+        "android_client_info": {
+          "package_name": "com.example.hoteligo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252897910755-8aobk7uubehv7t93urv1628vv689cunh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXafn8Nrb4Z6G_-Swe8XIXD2nuCGuizYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252897910755-8aobk7uubehv7t93urv1628vv689cunh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
